@@ -15,3 +15,9 @@ git clone https://github.com/yourusername/network-device-profiler
 cd network-device-profiler
 pip install -r requirements.txt
 python src/scanner.py
+4. Scroll down → “Commit changes” → Message: `Add project README` → Click green button
+
+**2. Add requirements.txt**
+1. Click `Add file` → `Create new file`
+2. Name: `requirements.txt`
+3. Paste: 
