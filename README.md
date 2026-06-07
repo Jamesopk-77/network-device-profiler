@@ -15,3 +15,5 @@ git clone https://github.com/yourusername/network-device-profiler
 cd network-device-profiler
 pip install -r requirements.txt
 python src/scanner.py
+scapy==2.5.0
+python-nmap==0.7.1
